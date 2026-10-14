@@ -1,68 +1,44 @@
 # Carlos Escacena García
+**Graduado en DAM · Python · SQL · Odoo · Mobile Development**
 
-**Multiplatform App Developer** · Kotlin · Android · Firebase  
-Granada, Spain — open to remote
-
----
-
-## About me
-
-Multiplatform app developer, finishing a DAM degree while transitioning
-from six years as a nurse in the Spanish public health sector.
-
-Clinical work shaped habits that transfer well to software: staying precise
-under pressure, learning continuously, and communicating across very different
-people and teams. I'm applying all of that to building real apps.
+📍 Granada, Spain (Presencial / Híbrido)  
+📧 carlos.escacena92@gmail.com | 🌐 [oposani.com](https://oposani.com)
 
 ---
 
-## Projects
+### 👨‍💻 Sobre mí / About Me
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Iniciado en desarrollo con **Python**, **SQL** y bases de datos, con experiencia práctica en integración de conectores de sistemas, automatización de flujos y nociones de **Odoo**. 
 
-### [OPOSANI](https://oposani.com)
-> Android app for Spanish public health sector exam prep — Enfermería, TCAE, Celador
+Provengo de una trayectoria previa en el sector sanitario (Enfermería), lo que me ha aportado sólidas habilidades de comunicación, capacidad de trabajo en equipo bajo presión, método y enfoque hacia la resolución práctica de problemas.
 
-Published on Google Play. Covers architecture, UI, backend, monetization and deployment.
-
-**Stack:** Kotlin Multiplatform · Jetpack Compose · Firebase Firestore · Firebase Auth · AdMob · RevenueCat · Cloudflare Pages
-
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.oposani.app)
-[![Web](https://img.shields.io/badge/Web-oposani.com-0A66C2?logo=google-chrome&logoColor=white)](https://oposani.com)
+Actualmente enfocado en seguir aprendiendo y creciendo en el desarrollo e implantación de software empresarial y desarrollo multiplataforma.
 
 ---
 
-### OPOSANI Content CLI
-> Python CLI tool for Firebase content management
+### 🚀 Proyectos Destacados / Key Projects
 
-Command-line tool for managing OPOSANI's exam database in Firebase:
-automated upload, review and bulk deletion — without touching the database manually.
+#### 🛠️ **OPOSANI Content CLI**
+*Herramienta de línea de comandos en Python para gestión de datos.*
+- Script CLI en Python para la administración de bases de datos de preguntas de examen en Firebase.
+- Carga masiva y automatizada desde archivos JSON, revisión de colecciones y borrado controlado sin intervención manual.
+- **Stack:** Python · Firebase Admin SDK · Firestore · JSON
 
-**Stack:** Python · Firebase Admin SDK · Firestore
-
----
-
-## Stack
-
-**Mobile**  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpack-compose&logoColor=white)
-
-**Backend**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-**Languages**  
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+#### 📱 **OPOSANI (App Móvil Android)**
+*Aplicación de preparación de oposiciones para el sector sanitario publicada en Google Play.*
+- Desarrollo integral (arquitectura, UI, backend, autenticación, monetización y despliegue).
+- **Stack:** Kotlin Multiplatform · Jetpack Compose · Firebase Firestore · RevenueCat · Cloudflare Pages
 
 ---
 
-## Contact
+### 🛠️ Tecnologías y Herramientas / Stack
 
-- ✉️ carlos.escacena92@gmail.com
-- 🌐 [oposani.com](https://oposani.com)
+- **Lenguajes:** Python, SQL, Kotlin, Java
+- **ERP & Integración:** Odoo (nociones/ciclo DAM), n8n, conectores ERP/eCommerce, Shopify
+- **Bases de Datos & Backend:** PostgreSQL (nociones/ORM), Firebase Firestore, REST APIs, JSON
+- **Herramientas & Entorno:** Git, GitHub, macOS, Terminal CLI
+
+---
+
+### 📫 Contacto
+- ✉️ Email: carlos.escacena92@gmail.com
+- 🌐 Web: [oposani.com](https://oposani.com)
